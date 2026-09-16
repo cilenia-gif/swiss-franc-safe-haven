@@ -1,14 +1,14 @@
-# swiss-franc-safe-haven
+### swiss-franc-safe-haven
 
 An empirical analysis of the Swiss franc's role as a safe-haven currency in response to geopolitical risk.
 
 The project investigates whether geopolitical risk shocks lead to portfolio inflows into Switzerland, while accounting for interest-rate differentials as an alternative driver of capital flows and changes in foreign exchange reserves as a proxy for potential Swiss National Bank intervention.
 
-## Research question
+#### Research question
 
 Do positive geopolitical risk shocks lead to statistically significant portfolio inflows into Switzerland, independently of carry-trade incentives?
 
-## Methodology
+#### Methodology
 
 The analysis uses quarterly macro-financial data and a Vector Autoregression (VAR) framework.
 
@@ -29,20 +29,15 @@ The project includes:
 - out-of-sample forecasting
 - robustness analysis
 
-## Repository
+#### Repository
 
 The repository contains both the original university submission and an updated version of the analysis.
 
-### View the analysis
+#### View the analysis
 
 - [Updated version](https://cilenia-gif.github.io/swiss-franc-safe-haven/chf_safehaven_effect_updated.html)
 - [Original university version](https://cilenia-gif.github.io/swiss-franc-safe-haven/chf_safehaven_effect.html)
 
-## Tools
+#### Tools
 
 R · Quarto · Time-Series Econometrics · VAR · Git
-
-## Author
-
-C. Ilenia
-Master's student in Economics
