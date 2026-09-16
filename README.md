@@ -1,4 +1,4 @@
-### swiss-franc-safe-haven
+### Swiss-Franc-Safe-Haven
 
 An empirical analysis of the Swiss franc's role as a safe-haven currency in response to geopolitical risk.
 
@@ -6,7 +6,7 @@ The project investigates whether geopolitical risk shocks lead to portfolio infl
 
 #### Research question
 
-Do positive geopolitical risk shocks lead to statistically significant portfolio inflows into Switzerland, independently of carry-trade incentives?
+Do positive geopolitical risk shocks lead to statistically significant portfolio inflows into Switzerland, independently of interest rate differentials?
 
 #### Methodology
 
